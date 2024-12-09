@@ -97,6 +97,15 @@
   margin-right: 25px;
 }
 
+.section1-box li{
+  font-size: 15px;
+  line-height: 1.6;
+  color: black;
+  text-align: justify;
+  font-family: "Poppins", sans-serif;
+  margin-right: 25px;
+}
+
 .section1-box iframe {
   height: 350px;
   width: 500px;
