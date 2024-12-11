@@ -445,7 +445,7 @@ footer.footer {
 @media screen and (max-width: 768px) {
   .main {
     padding: 10px;
-    background-color: #f0f8ff;
+    background-color: #caf0f8;
   }
 
   .navbar-brand {
