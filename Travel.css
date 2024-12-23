@@ -478,8 +478,8 @@ footer.footer {
   }
 
   .section1-box img {
-    width: 100%;
-    height: auto;
+    width: 250px !important;
+    height: 200px !important;
     display: block;
     margin-bottom: 15px;
   }
@@ -520,8 +520,8 @@ footer.footer {
   }
 
   .section2-box img {
-    width: 100%;
-    height: auto;
+    width: 250px !important;
+    height: 200px !important;
     display: block;
     margin-bottom: 15px;
   }
@@ -549,11 +549,6 @@ footer.footer {
 
   .section2-box .comment-section {
     margin-right: 20px;
-  }
-
-  .fixed-img {
-    width: 50px !important;
-    height: auto !important;
   }
 
   .comment-section {
